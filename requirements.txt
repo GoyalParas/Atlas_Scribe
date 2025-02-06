@@ -2,3 +2,5 @@ crewai
 crewai-tools
 streamlit
 python-dotenv
+streamlit_folium
+streamlit_extras
