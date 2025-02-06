@@ -24,7 +24,7 @@ pip install -r requirements.txt
 Run the application with the following command:
 
 ```bash
-streamlit run app.py
+streamlit run streamlit_app.py
 ```
 
 ## License
